@@ -24,3 +24,6 @@ Here are some of my proudest projects during my time at Hive:
 -  [2D game](https://github.com/aaiinnaa22/42-so_long)
 -  [3D generated images](https://github.com/aaiinnaa22/42-miniRT)
 -  [Philosophers problem](https://github.com/aaiinnaa22/42-philosophers)
+
+See also: 
+[CPP modules](https://github.com/aaiinnaa22/42-cpp_modules), a full showcase of exercises and smaller projects in C++.
