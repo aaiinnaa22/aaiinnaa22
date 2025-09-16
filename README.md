@@ -19,7 +19,7 @@ Hello! My name is Aina Albrecht. I'm a junior developer who currently studies at
 
 Here are some of my proudest projects during my time at Hive:
 
--  [HTTP/1.1 web server](https://github.com/aaiinnaa22/42-webserv.git)
+-  [HTTP/1.1 web server (C++)](https://github.com/aaiinnaa22/42-webserv.git)
 -  [Bash-like shell](https://github.com/aaiinnaa22/42-minishell)
 -  [2D game](https://github.com/aaiinnaa22/42-so_long)
 -  [3D generated images](https://github.com/aaiinnaa22/42-miniRT)
