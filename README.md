@@ -26,4 +26,7 @@ Here are some of my proudest projects during my time at Hive:
 -  [Philosophers problem (C)](https://github.com/aaiinnaa22/42-philosophers)
 
 See also: 
+
 [CPP modules (C++)](https://github.com/aaiinnaa22/42-cpp_modules), a full showcase of exercises and smaller projects in C++.
+
+[Docker project](https://github.com/aaiinnaa22/42-inception), running WordPress in Docker with Nginx and MariaDB.
