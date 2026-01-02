@@ -15,18 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Aina Albrecht. I'm a junior developer who currently studies at Hive Helsinki. 
+Hello! I’m Aina Albrecht, a junior software developer and recent graduate of Hive Helsinki.
 
-Here are some of my proudest projects during my time at Hive:
+My background is rooted in low-level C and C++ development, where I built a strong understanding of memory management, system-level programming, and problem-solving.
 
--  [HTTP/1.1 web server (C++)](https://github.com/aaiinnaa22/42-webserv.git)
--  [Bash-like shell (C)](https://github.com/aaiinnaa22/42-minishell)
--  [2D game (C)](https://github.com/aaiinnaa22/42-so_long)
--  [3D generated images (C)](https://github.com/aaiinnaa22/42-miniRT)
--  [Philosophers problem (C)](https://github.com/aaiinnaa22/42-philosophers)
+I’m currently transitioning into full-stack web development, combining my low-level foundation with modern web technologies to build robust and maintainable applications.
 
-See also: 
-
-[CPP modules (C++)](https://github.com/aaiinnaa22/42-cpp_modules), a full showcase of exercises and smaller projects in C++.
-
-[Docker project](https://github.com/aaiinnaa22/42-inception), running WordPress in Docker with Nginx and MariaDB.
+I’m passionate about learning, writing clean and efficient code, and continuously improving as a developer.
